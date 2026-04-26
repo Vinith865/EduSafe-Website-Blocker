@@ -1,0 +1,4 @@
+-e facebook.com
+youtube.com
+reddit.com
+instagram.com
